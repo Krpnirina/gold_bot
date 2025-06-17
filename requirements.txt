@@ -2,4 +2,3 @@ pandas
 numpy
 websocket-client
 scikit-learn
-sqlite3
