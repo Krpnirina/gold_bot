@@ -1,1 +1,1 @@
-web: python gold_bot.py
+web: python gold_1bot.py
