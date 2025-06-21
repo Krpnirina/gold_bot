@@ -1,4 +1,6 @@
-pandas
 numpy
-websocket-client
+pandas
 scikit-learn
+joblib
+websocket-client
+schedule
